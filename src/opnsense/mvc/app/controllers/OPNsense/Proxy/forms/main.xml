@@ -8,6 +8,12 @@
                 <help>Enable or disable the proxy service.</help>
             </field>
             <field>
+            	<id>proxy.general.testForm</id>
+            	<label>Test Form</label>
+            	<type>text</type>
+            	<advanced>true</advanced>
+            </field>
+            <field>
                 <id>proxy.general.icpPort</id>
                 <label>ICP port</label>
                 <type>text</type>
